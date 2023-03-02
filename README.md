@@ -1,4 +1,4 @@
-# theaterProject #short-description #JAVA #JSP #MySQL #HTML #CSS
+# #shortDescription #JAVA #JSP #MySQL #HTML #CSS
 
 #SEE DOCUMENTATION FOR FULL DESCRIPTION OF PROJECT.
 
