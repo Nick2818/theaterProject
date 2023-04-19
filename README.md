@@ -1,4 +1,4 @@
-# Theater Search Engine Java JSP MySQL HTML CSS 
+# Theater Search Engine using JavaServerPages, MySQL, HTML, CSS. 
 
 ## See documentation for full description of this project.
 
