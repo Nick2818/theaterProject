@@ -1,6 +1,6 @@
 # Theater Search Engine using JavaServerPages, MySQL, HTML, CSS. 
 
-## See documentation for full description of this project. [doc](https://github.com/Nick2818/theaterProject/blob/main/Documentation.pdf)
+## See documentation for full description of this project. [click here](https://github.com/Nick2818/theaterProject/blob/main/Documentation.pdf)
 
 ## This project uses JSP techonolgy with MYSQL database management.
 ## Login Panel: Visitator or ADMIN.
