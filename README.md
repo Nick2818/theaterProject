@@ -1,5 +1,5 @@
-# Theater Search Engine using JavaServerPages, MySQL, HTML, CSS. 
-
+# Theater Search Engine 
+## JavaServerPages, MySQL, HTML(Bootstrap framework), CSS.
 ## See documentation for full description of this project. [click here](https://github.com/Nick2818/theaterProject/blob/main/Documentation.pdf)
 
 ## This project uses JSP techonolgy with MYSQL database management.
